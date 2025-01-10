@@ -42,10 +42,10 @@ This is a simple Book Recommender System based on user preferences. It suggests 
 ## Images
 
 ### First Image
-![First Image](https://drive.google.com/file/d/190aKndu9_WR7JpGY1rEZPXvY2Sx-7D8v/view?usp=drive_link)
+![First Image](https://drive.google.com/uc?export=view&id=1ukyziO78-jZzPW0Nq2Rlne8oNaHIdIK9)
 
 ### Second Image
-![Second Image](https://drive.google.com/file/d/1ukyziO78-jZzPW0Nq2Rlne8oNaHIdIK9/view?usp=drive_link)
+![Second Image](https://drive.google.com/uc?export=view&id=190aKndu9_WR7JpGY1rEZPXvY2Sx-7D8v)
 
 
 
