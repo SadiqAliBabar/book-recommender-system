@@ -39,6 +39,14 @@ Once the app is running, open your web browser and go to http://localhost:5000/ 
 About the Project
 This is a simple Book Recommender System based on user preferences. It suggests books to users based on their inputs.
 
+## Images
+
+### First Image
+![First Image](https://drive.google.com/uc?export=view&id=1ukyziO78-jZzPW0Nq2Rlne8oNaHIdIK9)
+
+### Second Image
+![Second Image](https://drive.google.com/uc?export=view&id=SECOND_IMAGE_ID)
+
 
 
 
